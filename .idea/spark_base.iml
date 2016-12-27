@@ -12,6 +12,9 @@
         </sourceRoots>
       </configuration>
     </facet>
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
@@ -72,5 +75,16 @@
     <orderEntry type="library" scope="TEST" name="Maven: poi:poi:2.5.1-final-20040804" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: commons-collections:commons-collections:3.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: commons-lang:commons-lang:2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:jasper:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:servlet-api:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:juli:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:jsp-api:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:catalina:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:annotations-api:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:el-api:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:3.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:jasper-el:6.0.32" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:4.0.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.0.6.RELEASE" level="project" />
   </component>
 </module>
